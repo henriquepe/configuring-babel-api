@@ -1,3 +1,8 @@
+
+![babel](https://user-images.githubusercontent.com/62850277/78594317-74135f00-781e-11ea-8d79-48f8eebf9ed9.png)
+
+
+
 # Configuring Babel API
 
 Firstly, into the package manager JavaScript - Yarn, we will open a session to create a JSON package that will configure and manage dependencies of the application.
