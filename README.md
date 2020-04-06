@@ -33,7 +33,7 @@ the babel/cli isn't the only dependency what has to be added, and we have to add
 - @babel/preset-env
 - @babel/core
 
-yarn add @babel/preset-env
+    yarn add @babel/preset-env
 
 and
 
