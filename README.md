@@ -33,6 +33,20 @@ the babel/cli isn't the only dependency what has to be added, and we have to add
 - @babel/preset-env
 - @babel/core
 
+yarn add @babel/preset-env
+
+and
+
+    yarn add @babel/core
+
+Then automatically, the dependencies are updated.
+
+    "dependencies": {
+        "@babel/cli": "^7.8.4",
+        "@babel/core": "^7.9.0",
+        "@babel/preset-env": "^7.9.0"
+      },
+
 The babel/preset-env will get for the code a feature to recognize what is the running ambient of application. For that, you must create in folder this file: ".babelrc".
 
 In .babelrc:
