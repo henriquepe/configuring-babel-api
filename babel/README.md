@@ -1,4 +1,4 @@
-# Configuring o Babel
+# Configuring Babel
 
 Firstly, through the package manager JavaScript - Yarn we will open a session to create a JSON package that will configure and manage dependencies of the application.
 
