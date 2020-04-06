@@ -34,10 +34,7 @@ the babel/cli isn't the only dependency what has to be added, and we have to add
 - @babel/core
 
 
-yarn add @babel/preset-env
-
-and
-
+    yarn add @babel/preset-env
     yarn add @babel/core
 
 Then automatically, the dependencies are updated.
