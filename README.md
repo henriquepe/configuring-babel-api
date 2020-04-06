@@ -2,7 +2,7 @@
 
 Firstly, through the package manager JavaScript - Yarn we will open a session to create a JSON package that will configure and manage dependencies of the application.
 
-The commando do create a JASON Package in yarn pm is:
+The command to create a JASON Package in yarn pm is:
 
     yarn init
 
