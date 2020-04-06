@@ -13,7 +13,7 @@ The correct way to do the steps above is, before codding, you create a folder to
 
 Now, after the code you will see in the folder the package.json file, like that:
 
-![jsoninfolder](https://user-images.githubusercontent.com/62850277/78589677-f4ce5d00-7816-11ea-9d0b-67fbb1a088e7.png)
+![jsoninfolder2](https://user-images.githubusercontent.com/62850277/78591788-5d6b0900-781a-11ea-8f3e-561b1eb04d7d.png)
 
 You can see, the package.json file is in the "course-es6" folder, this happens because I wrote the code in a selected repository at prompt.
 
